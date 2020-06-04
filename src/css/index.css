@@ -1,0 +1,23 @@
+body {
+  font-weight: 200;
+  background-color: #037971;
+}
+
+header {
+  color: antiquewhite;
+}
+
+footer a {
+  color: white;
+}
+
+footer {
+  font-size: 0.9em;
+}
+
+.bg-primary,
+.btn-primary {
+  background-color: #037971 !important;
+  border: inherit;
+}
+
