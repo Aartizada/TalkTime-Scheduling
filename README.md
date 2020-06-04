@@ -1,3 +1,5 @@
+This is a simple scheduling app for online classes. Data currently does not save, this is just a functioning UI. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
